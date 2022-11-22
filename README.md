@@ -1,6 +1,6 @@
 # Entenda o Objetivo de cada Desafio:
 
-##### Desafio: Classificando Matrizes - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ClassificandoMatrizes1.java)
+##### Desafio: Classificando Matrizes - [Clique aqui para acessar o Código.](https://github.com/Herbertoliveira/desafio/blob/master/src/Matriz.java)
 
 ## **Desafio**
 
