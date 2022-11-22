@@ -59,8 +59,7 @@ Explicação: 12 = 10 * 9 / 8 + 7 - 6 * 5 / 4 + 3 - 2 * 1
 
 
 
-##### Desafio: Quadrados Perfeitos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/desafios-de-codigo/modulo-7-desafios-intermediarios/QuadradosPerfeitos.java)
-
+##### Desafio: Quadrados Perfeitos - [Clique aqui para acessar o Código.](https://github.com/Herbertoliveira/desafio/blob/master/src/Desafio.java)
 ## **Desafio** 
 
 Dado um inteiro n, retorne o menor número de números quadrados perfeitos cuja soma seja n. Um quadrado perfeito é um inteiro que é o quadrado de um inteiro; em outras palavras, é o produto de algum inteiro consigo mesmo. Por exemplo, 1, 4, 9 e 16 são quadrados perfeitos, enquanto 3 e 11 não são. 
