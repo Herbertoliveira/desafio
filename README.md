@@ -25,7 +25,7 @@ A saída deverá retornar todos os valores pares para o começo do array, seguid
 
 ------
 
-##### Desafio: Fatorial Desajeitado - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/FatorialDesajeitado.java)
+##### Desafio: Fatorial Desajeitado - [Clique aqui para acessar o Código.](https://github.com/Herbertoliveira/desafio/blob/master/src/FatorialDesajeitado.java)
 
 ## **Desafio**
 
